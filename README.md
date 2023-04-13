@@ -1,4 +1,4 @@
-# <span style="color:Turquoise">**Fullstack Pyjthon разработчик**</span>
+# <span style="color:Turquoise">**Fullstack Python разработчик**</span>
 
 Привет! Меня зовут **Семен**!  
 
