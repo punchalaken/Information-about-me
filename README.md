@@ -27,3 +27,6 @@
 email: penekkakti@gmail.com
 
 Тел. +7(911) 156-83-71 
+
+
+remote_theme: pages-themes/hacker@v0.2.0
